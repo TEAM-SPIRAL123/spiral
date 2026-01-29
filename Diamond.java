@@ -1,4 +1,4 @@
-public class Circle extends Shape{
+public class Diamond extends Shape{
 
 
     int x = 12;

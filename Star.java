@@ -1,3 +1,3 @@
-public star extends Shape{
+public class Star extends Shape{
     int counter;
 }
